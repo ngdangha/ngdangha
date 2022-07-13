@@ -2,7 +2,7 @@
 <p align="center">🔭 😄 👯 🤔 🌱</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngdangha&show_icons=true" alt="ngdangha" />
 
-<p align="left"> Github profile views (added April '26):  </p>
+<p align="left"> Github profile views (added July '13):  </p>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngdangha" alt="ngdangha" /> </p>
 
 
