@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngdangha" alt="ngdangha" /> </p>
 
 
-📫 How to reach me: **ndha.it.cva@gmail.com**
+📫 How to reach me: **ndha.work@gmail.com**
 
 <p align="center">
 
